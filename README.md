@@ -1,4 +1,4 @@
-# gotoAndPlay-praktikatoo
+# gotoAndPlay proovitöö
 Author: Karl Jääts
 
 ## Instructions
